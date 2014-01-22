@@ -17,6 +17,7 @@ In order to be considered for the position, you must complete the following step
 	- Create a page that is only accessable to logged in users that has a list of on/off toggles 
 	- The page should also let the user create a new toggle and name it
 	- The toggles on/off status should update the back end mongodb
+	- The toggles on/off status should also be saved on a simpleDB instance on Amazon Web Services
 	- A master toggle to turn all on/off should be on the page and the UI toggles should update based on model updates
 	- Use Twitter bootstrap for all elements and pages
 4. Commit and Push your code to your new repository
